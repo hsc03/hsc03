@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Seongcheol's%20Github&fontSize=65" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hsc03&show_icons=true" />
 </div>
 
 <div align="center">
@@ -11,6 +10,9 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </div>
+
+  <br />
+  
   <div>
     <h3>📚Frameworks, Platforms and Libraries</h3>
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -18,6 +20,9 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   </div>
+  
+<br />
+  
   <div>
     <h3>🛠IDEs</h3>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
@@ -25,3 +30,8 @@
 </div>
 
 <br />
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hsc03&show_icons=true" />
+</div>
