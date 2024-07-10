@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Seongcheol's%20Github&fontSize=65" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hsc03&show_icons=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsc03&show_icons=true" />
 </div>
 
 <div align="center">
