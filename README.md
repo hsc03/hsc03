@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Seongcheol's%20Github&fontSize=65" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsc03&show_icons=true" />
+</div>
+
+<div align="center">
   <h3>📕Laguages</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
