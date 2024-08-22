@@ -1,11 +1,6 @@
 <div align="center">
-  <h1>👋 Welcome to my Github!</h1>
+  <b><span style="font-size:250%">👋 Welcome to my Github!</span></b>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hsc03&theme=dark&hide_border=true&locale=ko&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
 <br />
 
 <div align="center">
@@ -26,7 +21,7 @@
 <br />
   
 <div align="center">
-  <h2>Collaboration Tools</h2>
+  <h2>👨‍👨‍👧‍👦Collaboration Tools</h2>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
