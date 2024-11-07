@@ -4,7 +4,7 @@
 <br />
 
 <div align="center">
-  <h2>🛠️ Frontend Stacks</h2>
+  <h2>🛠️&nbsp;Frontend Stacks</h2>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -21,7 +21,7 @@
 <br />
   
 <div align="center">
-  <h2>🧑‍🧑‍🧒‍🧒 Collaboration Tools</h2>
+  <h2>🧑‍🧑‍🧒‍🧒&nbsp;Collaboration Tools</h2>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
