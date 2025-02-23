@@ -1,10 +1,10 @@
 <div align="center">
-  <b><span style="font-size:250%">👋 Welcome to my Github!</span></b>
+  <h3 style="font-size:250%">👋 Welcome to my Github!</h3>
 </div>
 <br />
 
 <div align="center">
-  <h2>Stacks</h2>
+  <h2>📚 &nbsp;Stacks</h2>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -20,7 +20,7 @@
 <br />
   
 <div align="center">
-  <h2>Tools</h2>
+  <h2>🛠️ &nbsp;Tools</h2>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
